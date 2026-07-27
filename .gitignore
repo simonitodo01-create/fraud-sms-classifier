@@ -40,10 +40,13 @@ models/*.pkl
 models/*.joblib
 data/raw/
 data/processed/
-*.csv
 *.pkl
 *.joblib
 
 # OS
 .DS_Store
 Thumbs.db
+
+# Streamlit
+.streamlit/
+*.streamlit/
