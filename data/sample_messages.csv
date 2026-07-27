@@ -1,0 +1,21 @@
+message,label
+"Congratulations! You have won N1,000,000 in our monthly lottery. Click here to claim.",fraud
+"Hi John, your account balance is N50,000. Please confirm your identity.",fraud
+"Dear Customer, update your bank details immediately or your account will be suspended.",fraud
+"You are selected as a lucky winner! Claim your prize now.",fraud
+"URGENT: Your GTBank account has been compromised. Verify your credentials here.",fraud
+"Hello, just wanted to check in. How are you doing today?",safe
+"Your appointment on Friday at 2 PM has been confirmed.",safe
+"Thanks for your order! Your package will arrive tomorrow.",safe
+"Meeting rescheduled to next Wednesday at 10 AM.",safe
+"Remember to pick up the groceries on your way home.",safe
+"You have won a free iPhone 15! Claim now at [link]",fraud
+"SCAM ALERT: Your UBA account requires immediate verification.",fraud
+"Congratulations! You're the 1000th visitor. Claim your N500k reward.",fraud
+"Your password has expired. Reset it immediately here.",fraud
+"Nigerian Prince needs your bank account details urgently.",fraud
+"Your electricity bill of N5,400 is due tomorrow.",safe
+"Doctor's appointment confirmed for Monday, 3 PM.",safe
+"Your exam results are ready. Login to check.",safe
+"New message from Mom: Call me when you get home.",safe
+"Flight booking confirmed for Lagos-Abuja route.",safe
